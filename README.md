@@ -33,6 +33,12 @@
 <img
   align="centre"
   alt="ranjanport Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=ranjanport&show_icons=true&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=ranjanport&show_icons=true&hide_border=true&theme=gruvbox"
   />
+ <br>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanport&layout=compact"/> </p>
+ <br>
+ <a href="https://github.com/ranjanport/ranjanport">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjanport&repo=ranjanport" />
+</a>
 
