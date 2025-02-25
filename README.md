@@ -187,6 +187,4 @@ I am a dedicated and passionate software developer with a strong expertise in th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjanport&show_icons=true&locale=en&layout=compact" alt="ranjanport" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ranjanport&show_icons=true&theme=dark&locale=en" alt="ranjanport" /></p>
-<p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanport&" alt="ranjanport" /></p>
 </p>
