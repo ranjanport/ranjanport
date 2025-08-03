@@ -8,6 +8,8 @@ I am a dedicated and passionate software developer with a strong expertise in th
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)![PyQT](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 
+<h1>Currently Learning</h1>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/688f48e3087fc9883fff01b7?variant=dark" alt="roadmap.sh"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanport&label=Profile%20views&color=0e75b6&style=plastic" alt="ranjanport" /> </p>
 
