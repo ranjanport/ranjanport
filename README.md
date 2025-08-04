@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aman Ranjan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanport&label=Profile%20views&color=0e75b6&style=plastic" alt="ranjanport" /> </p>
 
 ## About Me
 I am a dedicated and passionate software developer with a strong expertise in the Python programming language. I have extensive experience working with a diverse range of technologies and frameworks, including database management systems such as PostgreSQL and MongoDB, as well as web development frameworks including Next.js, Flask, and FastAPI. Additionally, I possess hands-on experience in GUI development utilizing QT and PyQT. My commitment to delivering high-quality solutions and my enthusiasm for exploring innovative technologies drive my professional growth and contributions to software development.
@@ -9,10 +10,10 @@ I am a dedicated and passionate software developer with a strong expertise in th
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)![PyQT](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 
 <h1>Currently Learning</h1>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/688f48e3087fc9883fff01b7?variant=dark&roadmaps=688f503b087fc9883f004e16%2Csystem-design" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/688f48e3087fc9883fff01b7?variant=dark&roadmaps=688f503b087fc9883f004e16%2Csystem-design" alt="roadmap.sh"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanport&label=Profile%20views&color=0e75b6&style=plastic" alt="ranjanport" /> </p>
-
+<br></br>
+<h3 align="left">Profile Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjanport" alt="ranjanport" /></a> </p>
 
 
